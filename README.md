@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajkoenig!
 - 💼 I will be starting a position as a data analyst at Digitas NYC in July 2022.
-- 📚 I'm a recent graduate of the University of Wisconsin-Madison, receiving a dual Bachelor of Sciences in Industrial Engineering and Economics.
+- 📚 I'm a recent graduate of the University of Wisconsin-Madison with a dual Bachelor of Sciences in Industrial Engineering and Economics.
 - 👀 I’m interested in data visualization and analytics within marketing, specifically within the music industry.
 - 🌱 I’m currently learning Python, SQL, R, and Tableau.
 - 📫 How to reach me: ajkoenig18@gmail.com
